@@ -15,7 +15,7 @@ very rewarding, knowing that you contribute to the security of a decentralized n
 your stash.
 
 Since security is so important to running a successful validator, you should take a look at the
-[secure validator](maintain-guides-secure-validator) information to make you understand the factors
+[secure validator](maintain-guides-secure-validator.md) information to make you understand the factors
 to consider when constructing your infrastructure. The Web3 Foundation also maintains a
 [reference implementation for a secure validator set-up](https://github.com/w3f/polkadot-secure-validator)
 that you can use by deploying yourself. As you progress in your journey as a validator, you will
@@ -29,7 +29,7 @@ Riot. The team and other validators are there to help answer questions and provi
 ### How Many KSM Do I Need?
 
 You can have a rough estimate on that by using the methods listed
-[here](faq#what-are-the-ways-to-find-out-the-minimum-stake-necessary-for-the-validators). Validators
+[here](faq.md#what-are-the-ways-to-find-out-the-minimum-stake-necessary-for-the-validators). Validators
 are elected based on [Phragmén's algorithm](learn-phragmen). To be elected into the set, you need a
 minimum stake behind your validator. This stake can come from yourself or from
 [nominators](learn-nominator). This means that as a minimum, you will need enough KSM to set up
